@@ -1,0 +1,10 @@
+C:\Users\ahmed\source\repos\Project\Project\bin\Debug\Project.exe.config
+C:\Users\ahmed\source\repos\Project\Project\bin\Debug\Project.exe
+C:\Users\ahmed\source\repos\Project\Project\bin\Debug\Project.pdb
+C:\Users\ahmed\source\repos\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\Project\Project\obj\Debug\Project.AgencyForm.resources
+C:\Users\ahmed\source\repos\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\ahmed\source\repos\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Project\Project\obj\Debug\Project.exe
+C:\Users\ahmed\source\repos\Project\Project\obj\Debug\Project.pdb
